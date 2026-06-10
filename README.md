@@ -97,35 +97,6 @@ Smart-Car-Reservation-System
 │
 └── README.md
 ```
-
----
-
-## 🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/Smart-Car-Reservation-System.git
-```
-
-Move to project directory:
-
-```bash
-cd Smart-Car-Reservation-System
-```
-
-Install dependencies:
-
-```bash
-pip install matplotlib
-```
-
-Run the project:
-
-```bash
-python main.py
-```
-
 ---
 
 ## 🎯 Educational Objectives
