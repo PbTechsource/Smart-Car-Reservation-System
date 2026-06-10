@@ -177,3 +177,15 @@ README authored by **Barsam**.
 ## 📄 License
 
 This project is developed for educational purposes.
+
+---
+
+## 📄 Copyright
+
+© 2025 Tech Source Group
+
+All rights reserved.
+
+This project is intended for educational and portfolio purposes only.
+
+Unauthorized copying, modification, distribution, or commercial use of this project is prohibited.
