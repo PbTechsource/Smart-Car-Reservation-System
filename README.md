@@ -180,6 +180,16 @@ This project is developed for educational purposes.
 
 ---
 
+🌐 Connect With Us
+Telegram
+https://t.me/Tech_Source
+
+Instagram
+https://instagram.com/tech.source_
+
+
+---
+
 ## 📄 Copyright
 
 © 2025 Tech Source Group
