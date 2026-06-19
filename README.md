@@ -180,7 +180,8 @@ This project is developed for educational purposes.
 
 ---
 
-🌐 Connect With Us
+## 🌐 Connect With Us
+
 Telegram
 https://t.me/Tech_Source
 
